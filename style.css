@@ -1,7 +1,13 @@
-.Side-Nav {
-    background-color: antiquewhite;
+.side-bar {
+    overflow: scroll;
 }
 
 .blue {
-    background-color: blue;
+    background-color: #C8EFF9;
+}
+.l-blue{
+    background-color: #96FFFF;
+}
+.d-blue{
+    background-color: #558DCA;
 }
